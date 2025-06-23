@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notas 2025</string>
+    <string name="notas_2025">Notas 2025</string>
+    <string name="escribe_un_tema">Escribe un Tema</string>
+    <string name="comenta_el_tema">Comenta el tema . . .</string>
+    <string name="respuestas">Respuestas . . .</string>
+    <string name="salir">SALIR</string>
+    <string name="crud_2025">CRUD 2025</string>
+    <string name="id">ID:</string>
+    <string name="guardar">Guardar</string>
+    <string name="expandir">Expandir</string>
+    <string name="editar">Editar</string>
+    <string name="listado">Listado</string>
+    <string name="buscar">Buscar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
